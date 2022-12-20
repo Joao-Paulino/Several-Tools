@@ -18,13 +18,28 @@ https://en.kali.tools/
 
 https://en.rakko.tools/
 
-https://sitecheck.sucuri.net/
-
 https://cirt.net/passwords
 
 https://easydmarc.com/tools/dmarc-lookup?domain
 
 https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html
+
+https://sitecheck.sucuri.net/
+
+https://webscan.upguard.com/
+
+https://www.ssllabs.com/ssltest/
+
+https://hostedscan.com/
+
+https://quttera.com/
+
+https://observatory.mozilla.org/
+
+https://pentest-tools.com/
+
+https://www.immuniweb.com/free/
+
 
 
 
