@@ -24,6 +24,10 @@ https://cirt.net/passwords
 
 https://easydmarc.com/tools/dmarc-lookup?domain
 
+https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html
+
+
+
 
 
 
