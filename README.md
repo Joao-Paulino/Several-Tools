@@ -14,6 +14,16 @@ https://www.yougetsignal.com/ Network tools
 
 https://favkit.msguides.com/
 
+https://en.kali.tools/
+
+https://en.rakko.tools/
+
+https://sitecheck.sucuri.net/
+
+https://cirt.net/passwords
+
+https://easydmarc.com/tools/dmarc-lookup?domain
+
 
 
 
