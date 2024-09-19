@@ -1,4 +1,4 @@
-# SeveralTools
+# Several Tools
 
 http://www.yamllint.com/ The YAML Validator
 
